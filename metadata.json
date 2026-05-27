@@ -1,0 +1,7 @@
+{
+  "name": "Al Tayyab Perfumes",
+  "description": "Premium luxury non-alcoholic attars and fragrances website with modern minimalist UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
